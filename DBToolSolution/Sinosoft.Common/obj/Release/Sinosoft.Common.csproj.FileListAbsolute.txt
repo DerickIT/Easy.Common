@@ -1,0 +1,5 @@
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Common\bin\Release\Sinosoft.Common.dll
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Common\bin\Release\Sinosoft.Common.pdb
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Common\obj\Release\Sinosoft.Common.csprojResolveAssemblyReference.cache
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Common\obj\Release\Sinosoft.Common.dll
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Common\obj\Release\Sinosoft.Common.pdb

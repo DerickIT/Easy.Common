@@ -1,0 +1,27 @@
+【配置环境：.netframework3.5，启动WebDBTool项目Default.aspx页面】
+
+1、请先配置web.config文件，包括数据库链接，表名
+2、oracle to  oracle生成的语句会以oracle.sql命名
+3、oracle to  mssql生成的语句会以mssql.sql命名
+4、只是操作了oracle部分字段进行与mssql的转换，可能会损失精度
+5、本地需安装Oracle客户端，否则无法连接Oracle数据库
+6、以oracle源库为基准，对比oracle镜像库和mssql目标库库表结构。源库中存在的表，在镜像库和目标库都应存在，至少表名一致。
+7、oracle转换mssql使用的是以下转换规则，如需更改，请事先说明。
+
+	
+	转换规则
+=====================================
+|ORACLE|	   |MSSql|
+CHAR                char  
+VARCHAR2            varchar 
+NCHAR               nchar  
+NVARCHAR2           nvarchar 
+DATE                datetime    
+LONG                text        
+RAW                 varbinary   
+LONG RAW            varbinary/image(判断字节大小)
+BLOB                image 
+CLOB                text
+NCLOB               text
+NUMBER(P,S)         int 
+DECIMAL(P,S)        decimal  

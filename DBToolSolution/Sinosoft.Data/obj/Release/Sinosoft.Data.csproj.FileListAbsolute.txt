@@ -1,0 +1,8 @@
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Data\bin\Release\Sinosoft.Data.dll
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Data\bin\Release\Sinosoft.Data.pdb
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Data\bin\Release\Sinosoft.Model.dll
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Data\bin\Release\Sinosoft.Model.pdb
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Data\obj\Release\Sinosoft.Data.csprojResolveAssemblyReference.cache
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Data\obj\Release\Sinosoft.Data.dll
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Data\obj\Release\Sinosoft.Data.pdb
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Data\bin\Release\Oracle.ManagedDataAccess.dll

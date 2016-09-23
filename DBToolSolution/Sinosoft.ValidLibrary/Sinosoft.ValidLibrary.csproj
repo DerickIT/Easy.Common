@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4F03D65A-30FC-40F3-A24A-AA5018C88D72}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sinosoft.ValidLibrary</RootNamespace>
+    <AssemblyName>Sinosoft.ValidLibrary</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValidClass.cs" />
+    <Compile Include="ValidColumns.cs" />
+    <Compile Include="ValidFunc.cs" />
+    <Compile Include="ValidType.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Sinosoft.Common\Sinosoft.Common.csproj">
+      <Project>{47f81496-8db8-4d11-ad19-f877b5cd1988}</Project>
+      <Name>Sinosoft.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sinosoft.Interfaces\Sinosoft.Interfaces.csproj">
+      <Project>{c01083b6-2abd-46a6-be7e-114fb5543987}</Project>
+      <Name>Sinosoft.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sinosoft.Model\Sinosoft.Model.csproj">
+      <Project>{93ab74e9-14a3-43e0-95a6-d46bd7e7d9f0}</Project>
+      <Name>Sinosoft.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sinosoft.Output\Sinosoft.Output.csproj">
+      <Project>{42868825-5135-43fb-a29c-7a74d3f75873}</Project>
+      <Name>Sinosoft.Output</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

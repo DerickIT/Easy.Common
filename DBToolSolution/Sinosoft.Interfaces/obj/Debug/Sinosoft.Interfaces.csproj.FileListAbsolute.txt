@@ -1,0 +1,14 @@
+F:\Code\DBToolSolution\Sinosoft.Interfaces\bin\Debug\Sinosoft.Interfaces.dll
+F:\Code\DBToolSolution\Sinosoft.Interfaces\bin\Debug\Sinosoft.Interfaces.pdb
+F:\Code\DBToolSolution\Sinosoft.Interfaces\obj\Debug\Sinosoft.Interfaces.csprojResolveAssemblyReference.cache
+F:\Code\DBToolSolution\Sinosoft.Interfaces\obj\Debug\Sinosoft.Interfaces.dll
+F:\Code\DBToolSolution\Sinosoft.Interfaces\obj\Debug\Sinosoft.Interfaces.pdb
+F:\Code\DBToolSolution\Sinosoft.Interfaces\bin\Debug\Sinosoft.Model.dll
+F:\Code\DBToolSolution\Sinosoft.Interfaces\bin\Debug\Sinosoft.Model.pdb
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\bin\Debug\Sinosoft.Interfaces.dll
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\bin\Debug\Sinosoft.Interfaces.pdb
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\bin\Debug\Sinosoft.Model.dll
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\bin\Debug\Sinosoft.Model.pdb
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\obj\Debug\Sinosoft.Interfaces.csprojResolveAssemblyReference.cache
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\obj\Debug\Sinosoft.Interfaces.dll
+E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\obj\Debug\Sinosoft.Interfaces.pdb
