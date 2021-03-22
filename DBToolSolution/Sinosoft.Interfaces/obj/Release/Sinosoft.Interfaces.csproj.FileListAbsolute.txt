@@ -1,7 +1,0 @@
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\bin\Release\Sinosoft.Interfaces.dll
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\bin\Release\Sinosoft.Interfaces.pdb
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\bin\Release\Sinosoft.Model.dll
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\bin\Release\Sinosoft.Model.pdb
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\obj\Release\Sinosoft.Interfaces.csprojResolveAssemblyReference.cache
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\obj\Release\Sinosoft.Interfaces.dll
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Interfaces\obj\Release\Sinosoft.Interfaces.pdb

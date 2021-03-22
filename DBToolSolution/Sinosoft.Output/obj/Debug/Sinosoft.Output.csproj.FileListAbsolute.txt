@@ -1,9 +1,0 @@
-F:\Code\DBToolSolution\Sinosoft.Output\bin\Debug\Sinosoft.Output.dll
-F:\Code\DBToolSolution\Sinosoft.Output\bin\Debug\Sinosoft.Output.pdb
-F:\Code\DBToolSolution\Sinosoft.Output\obj\Debug\Sinosoft.Output.dll
-F:\Code\DBToolSolution\Sinosoft.Output\obj\Debug\Sinosoft.Output.pdb
-F:\Code\DBToolSolution\Sinosoft.Output\obj\Debug\Sinosoft.Output.csprojResolveAssemblyReference.cache
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Output\bin\Debug\Sinosoft.Output.dll
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Output\bin\Debug\Sinosoft.Output.pdb
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Output\obj\Debug\Sinosoft.Output.dll
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Output\obj\Debug\Sinosoft.Output.pdb

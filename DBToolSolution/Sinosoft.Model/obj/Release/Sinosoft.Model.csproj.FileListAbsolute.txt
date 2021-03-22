@@ -1,4 +1,0 @@
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Model\bin\Release\Sinosoft.Model.dll
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Model\bin\Release\Sinosoft.Model.pdb
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Model\obj\Release\Sinosoft.Model.dll
-E:\GitHub\gitsetup\Git\OracleDBTools\DBToolSolution\Sinosoft.Model\obj\Release\Sinosoft.Model.pdb
