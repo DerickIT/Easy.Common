@@ -3,7 +3,7 @@ using System.Linq;
 using System.Reflection;
 using Easy.Common.Shared.Entities;
 using Easy.Common.Shared.Interceptors;
-using Adnc.Infr.EventBus;
+//using Adnc.Infr.EventBus;
 using Autofac;
 using Autofac.Extras.DynamicProxy;
 
@@ -28,10 +28,10 @@ namespace Easy.Common.Shared
                    .AsImplementedInterfaces()
                    .InstancePerLifetimeScope();
 
-            //注册事件发布者
-            builder.RegisterType<CapPublisher>()
-                   .As<IEventPublisher>()
-                   .SingleInstance();
+            //注册事件发布者todo 
+            //builder.RegisterType<CapPublisher>()
+            //       .As<IEventPublisher>()
+            //       .SingleInstance();
 
             //注册服务
             var registionBuilder = builder.RegisterAssemblyTypes(_assemblieToScan)

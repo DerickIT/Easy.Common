@@ -1,4 +1,4 @@
-﻿using Autofac
+﻿using Autofac;
 using Easy.Common.EFCore.Repositories;
 using Easy.Common.Shared;
 using Easy.Common.Shared.IRepositories;

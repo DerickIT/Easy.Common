@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data;
 using DotNetCore.CAP;
-using Adnc.Core.Shared;
+using Easy.Common.Shared;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage;
 using System.Threading.Tasks;

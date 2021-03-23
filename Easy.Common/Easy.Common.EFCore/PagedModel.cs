@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Adnc.Core.Shared;
+using Easy.Common.Shared;
 using JetBrains.Annotations;
 
 namespace Easy.Common.EFCore
