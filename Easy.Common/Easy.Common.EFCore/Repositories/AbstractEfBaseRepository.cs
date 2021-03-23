@@ -7,9 +7,9 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Dapper;
-using Adnc.Core.Shared;
-using Adnc.Core.Shared.IRepositories;
-using Adnc.Core.Shared.Entities;
+using Easy.Common.Shared.Entities;
+using Easy.Common.Shared.IRepositories;
+using Easy.Common.Shared;
 
 namespace Easy.Common.EFCore.Repositories
 {

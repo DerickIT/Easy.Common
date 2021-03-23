@@ -4,11 +4,10 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading;
 using System.Threading.Tasks;
+using Easy.Common.Shared.Entities;
+using Easy.Common.Shared.IRepositories;
 using Microsoft.EntityFrameworkCore;
 using Z.EntityFramework.Plus;
-using Adnc.Core.Shared.Entities;
-using Adnc.Core.Shared.IRepositories;
-using Adnc.Infr.Common.Extensions;
 
 namespace Easy.Common.EFCore.Repositories
 {

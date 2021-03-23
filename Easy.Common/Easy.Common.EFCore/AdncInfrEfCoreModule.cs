@@ -1,7 +1,7 @@
-﻿using Autofac;
-using Adnc.Core.Shared.IRepositories;
+﻿using Autofac
 using Easy.Common.EFCore.Repositories;
-using Adnc.Core.Shared;
+using Easy.Common.Shared;
+using Easy.Common.Shared.IRepositories;
 
 namespace  Easy.Common.EFCore
 {

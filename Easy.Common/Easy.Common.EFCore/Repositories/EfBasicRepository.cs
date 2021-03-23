@@ -4,9 +4,9 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading;
 using System.Threading.Tasks;
+using Easy.Common.Shared.Entities;
+using Easy.Common.Shared.IRepositories;
 using Microsoft.EntityFrameworkCore;
-using Adnc.Core.Shared.IRepositories;
-using Adnc.Core.Shared.Entities;
 
 namespace Easy.Common.EFCore.Repositories
 {

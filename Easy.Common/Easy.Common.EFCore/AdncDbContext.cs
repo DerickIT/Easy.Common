@@ -4,6 +4,8 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using JetBrains.Annotations;
+using Easy.Common.EFCore.Entitys;
+using Easy.Common.Shared.Entities;
 //using Adnc.Core.Shared.Entities;
 //using Adnc.Infr.Common;
 
